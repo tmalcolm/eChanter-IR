@@ -1,2 +1,2 @@
-# eChanter-OG
-The original eChanter Electronic Bagpipe for the Arduino nano.
+# eChanter-IR
+eChanter Electronic Bagpipe using IR sensors for the Arduino nano.
